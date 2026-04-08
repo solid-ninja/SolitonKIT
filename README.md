@@ -1,6 +1,6 @@
 # SolitonKit MK III Final v2
 
-![Soliton Radar](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN0Nng1d2FoN2RkZjV6N2ozbWE4aTAyeDM0NzN5aWR1cWI3a25yciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X5HXRzHA78Og7Fr64T/giphy.gif)
+![Soliton Radar](https://media4.giphy.com/media/X5HXRzHA78Og7Fr64T/giphy.gif)
 
 **Comprehensive Python SEO Toolkit** - Keyword research, on-page audits, PageSpeed monitoring, density analysis, JSON-LD schema generation.
 
