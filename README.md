@@ -1,4 +1,4 @@
-# SolitonKit MK III Final v2
+# SolitonKit MK III Final v2 
 
 ![Soliton Radar](https://media4.giphy.com/media/X5HXRzHA78Og7Fr64T/giphy.gif)
 
@@ -27,14 +27,10 @@ python solitonkit.py
 ```
 
 ## ✨ v2 Fixes
+
 - ✅ Crawler list crash fixed
 - ✅ Responsive PageSpeed cards  
 - ✅ Hreflang/nofollow parsing
 - ✅ UI overflow & clipping resolved
 
 **Built by Shak (solidsman) for SEO pros & freelancers. Free. Open-source. No tracking.**
-
----
-
-⭐ **Star on GitHub** | 🐛 **[Issues](https://github.com/solidsman/solitonkit/issues)** 
-
