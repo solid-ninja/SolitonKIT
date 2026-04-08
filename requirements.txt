@@ -1,0 +1,6 @@
+# SolidRank Kit v6.2 — Requirements
+# Built by shak
+#
+# Install with:  pip install -r requirements.txt
+
+requests>=2.28.0
